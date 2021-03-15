@@ -85,6 +85,7 @@ The Foundation will be composed of Platinum, Gold , End User and Academic and No
 
 #### 5. IP Policy
 
+- All the member units of DAOPS Foundation need to provide logo authorization for the display of foundation members and publicity proposals.
 - All content of DAOPS Foundation is copyright protected.The copyright is owned by DAOPS Foundation.
 - Any project that is added to the DAOPS Foundation must have ownership of its trademark and logo assets transferred to the DAOPS Foundation.
 - Each project shall require use of an approved DAOPS CLA (Contributor License Agreement). 
